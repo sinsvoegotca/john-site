@@ -146,11 +146,7 @@ h6 {
 }
 
 /*
-(i) Стилі будуть застосовуватись до
-всіх класів, що містять *__container
-Наприклад header__container, main__container і т.п.
-Сніппет (HTML): cnt
-*/
+
 
 [class*=__container] {
   max-width: 55.5rem;
